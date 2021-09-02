@@ -1,1 +1,2 @@
-# MMA865---Heroku3
+# mma865-heroku
+mma865-heroku
